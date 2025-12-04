@@ -1,21 +1,20 @@
 <div align="center">
   
-  <img src="screenshots/logo.png" alt="UCEK Attendance App Logo" width="200"/>
+  <img src="screenshots/logo.png" alt="UCEK Attendance App Logo" width="500"/>
   
-  ### Built by [MuLearn Club](https://mulearn.uck.ac.in/)
-  ### University College of Engineering Kariavattom (UCEK)
-  
+  ### Built by [MuLearn Club (ucek)](https://mulearn.uck.ac.in/)
+
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/mulearnucek/ams-frontend)
   
-🔗 Live Application: https://ams.mulearn.uck.ac.in/
 </div>
 
----
-
 ## 📋 Overview
+> **⚠️ Note**: This project is currently under active development. Features and functionality may change.
 
 The UCEK Attendance Management System is a comprehensive platform developed by the MuLearn Club at University College of Engineering Kariavattom. This application streamlines academic tracking and management for students, teachers, and parents, providing real-time access to attendance records, grades, assignments, and more.
+
+  #### 🌐 [Visit Live Website](https://ams.mulearn.uck.ac.in/) (Work in Progress)
 
 ## ✨ Features
 
