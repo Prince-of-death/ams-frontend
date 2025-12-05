@@ -29,9 +29,9 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
   };
 
   return (
-    <div className="flex h-screen w-full">
+    <div className="flex h-screen w-full" suppressHydrationWarning>
       {/* Desktop Sidebar - always visible on large screens */}
-      <div className="hidden lg:flex">
+      <div className="hidden lg:flex" suppressHydrationWarning>
         <DashboardSidebar user={userInfo} />
       </div>
 
